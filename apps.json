@@ -2,12 +2,12 @@
   "identifier": "com.yourname.myrepo",
   "apps": [
     {
-      "name": "App Name",
-      "bundleIdentifier": "com.yourname.appname",
+      "name": "Bloons TD 4",
+      "bundleIdentifier": "com.btd4",
       "version": "1.0",
-      "subtitle": "A short description of your app",
-      "downloadURL": "https://github.com",
-      "localizedDescription": "A longer description of what your app does.",
+      "subtitle": "btd4",
+      "downloadURL": "https://github.com/xxskidxx69420-ai/ipa-repo/raw/refs/heads/main/Bloons-TD-4.ipa",
+      "localizedDescription": "bloons td 4.",
       "versions": [
         {
           "version": "1.0",
