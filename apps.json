@@ -1,0 +1,21 @@
+"name": "My Custom Repo",
+  "identifier": "com.yourname.myrepo",
+  "apps": [
+    {
+      "name": "App Name",
+      "bundleIdentifier": "com.yourname.appname",
+      "version": "1.0",
+      "subtitle": "A short description of your app",
+      "downloadURL": "https://github.com",
+      "localizedDescription": "A longer description of what your app does.",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-05-30T12:00:00Z",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://github.com"
+        }
+      ]
+    }
+  ]
+}
